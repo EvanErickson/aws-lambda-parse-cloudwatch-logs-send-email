@@ -1,8 +1,8 @@
 # AWS Lambda - Parsing Cloudwatch Data and sending the response via email.
 
-Author: Evan Erickson
-Language: Python3
-Backend: AWS / Serverless / AWS Lambda
+Author: Evan Erickson </br>
+Language: Python </br>
+Backend: AWS / Serverless / AWS Lambda </br>
 
 # Objective:
 Lambda function: Parsing cloud front log streams and sending data to an email
